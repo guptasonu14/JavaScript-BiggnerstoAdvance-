@@ -1,5 +1,5 @@
-////////////////////////////////////
-// Type Conversion and Coercion
+
+// Type Conversion and Coercion//
 
 // type conversion
 const inputYear = '1991';
