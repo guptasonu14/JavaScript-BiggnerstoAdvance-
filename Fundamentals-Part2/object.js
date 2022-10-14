@@ -1,4 +1,4 @@
-/////////Introduction object /////////////
+/////////Introduction to object /////////////
 const jonasArray = [
     'jonas',
     'sonu',
